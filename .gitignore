@@ -1,0 +1,10 @@
+*.o
+my_runner
+.DS_Store
+vg*
+workspace.code-workspace
+mysh
+junk.txt
+.vscode/settings.json
+access_test/
+a.out
