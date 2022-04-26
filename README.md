@@ -30,7 +30,6 @@
     <img src="images/shell_screenshot.png" alt="Logo" width=100% height=100%>
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 Le Minishell est un projet réalisé au cours de la première année d'Epitech. C'est une implémentation basique d'un interpréteur de commandes (ou Shell Unix) en C.
 
@@ -45,6 +44,8 @@ Implémentations :
 
 Projet respectant la norme Epitech : Un maximum de 5 fonctions par fichier, 24 lignes par fonction et 80 colonnes par ligne.
 Les fonctions autorisées sont : write, malloc, free, exit, open, close, fork, execve.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## How To Use
 <br />
